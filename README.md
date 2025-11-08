@@ -43,8 +43,8 @@ I'm passionate about Object-Oriented Design (like the **MVC Architecture**) and 
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheldonlecc&show_icons=true&theme=radical" alt="jojozhu9's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheldonlecc&layout=compact&theme=radical" alt="jojozhu9's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jojozhu9&show_icons=true&theme=radical" alt="jojozhu9's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojozhu9&layout=compact&theme=radical" alt="jojozhu9's Top Languages" />
 </p>
 ---
 
