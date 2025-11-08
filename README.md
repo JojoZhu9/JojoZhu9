@@ -46,11 +46,12 @@ I'm passionate about Object-Oriented Design (like the **MVC Architecture**) and 
   <img src="https://github-readme-stats.vercel.app/api?username=jojozhu9&show_icons=true&theme=radical" alt="jojozhu9's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojozhu9&layout=compact&theme=radical" alt="jojozhu9's Top Languages" />
 </p>
+
 ---
 
 ### 🎯 Let's Connect!
 
-- 💌 Email: `[jiuzhou.zhu@ucdconnect.ie]`
+- 💌 Email: `jiuzhou.zhu@ucdconnect.ie`
 
 <br>
 
