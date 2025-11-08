@@ -51,7 +51,9 @@ I'm passionate about Object-Oriented Design (like the **MVC Architecture**) and 
 
 ### 🎯 Let's Connect!
 
-- 💌 Email: `jiuzhou.zhu@ucdconnect.ie`
+- 💌 UCD Email: `jiuzhou.zhu@ucdconnect.ie`
+- 🐧 QQ EmailL: `3490955839@qq.com`
+- 💚 Wechat: `JojoZhu0316`
 
 <br>
 
