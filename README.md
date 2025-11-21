@@ -36,7 +36,7 @@ I'm passionate about Object-Oriented Design (like the **MVC Architecture**) and 
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/Pycharm-3DDC84?style=for-the-badge&logo=pycharm&logoColor=white" alt="Pycharm">
+  <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 </p>
 
 ---
