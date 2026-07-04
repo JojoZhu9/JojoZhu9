@@ -30,17 +30,13 @@ Building Android apps, full-stack systems, and practical software with clean arc
 | [EcoSync](https://github.com/JojoZhu9/COMP3030J-EcoSync) | Sustainability-focused web application project. | Vue |
 | [Smart Site Planner](https://github.com/JojoZhu9/smart-site-planner) | Intelligent site planning and visualization system. | Python |
 
-<div align="center">
-  <a href="https://github.com/JojoZhu9/COMP3011J-CityGo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JojoZhu9&repo=COMP3011J-CityGo&theme=tokyonight&hide_border=true" alt="CityGo repository card">
-  </a>
-  <a href="https://github.com/JojoZhu9/COMP3030J-EcoSync">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JojoZhu9&repo=COMP3030J-EcoSync&theme=tokyonight&hide_border=true" alt="EcoSync repository card">
-  </a>
-  <a href="https://github.com/JojoZhu9/smart-site-planner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JojoZhu9&repo=smart-site-planner&theme=tokyonight&hide_border=true" alt="Smart Site Planner repository card">
-  </a>
-</div>
+<p align="center">
+  <a href="https://github.com/JojoZhu9/COMP3011J-CityGo"><strong>CityGo</strong></a>
+  ·
+  <a href="https://github.com/JojoZhu9/COMP3030J-EcoSync"><strong>EcoSync</strong></a>
+  ·
+  <a href="https://github.com/JojoZhu9/smart-site-planner"><strong>Smart Site Planner</strong></a>
+</p>
 
 ## Tech Stack
 
@@ -71,10 +67,12 @@ Building Android apps, full-stack systems, and practical software with clean arc
 
 ## GitHub Snapshot
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JojoZhu9&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojoZhu9&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</div>
+| Area | Snapshot |
+| --- | --- |
+| Public repositories | 4 |
+| Recent project focus | Android travel app, sustainability web app, intelligent planning tool |
+| Main languages in public work | Java, Vue, Python |
+| Profile focus | Runnable projects, clean documentation, and practical software demos |
 
 ## What I Care About
 
