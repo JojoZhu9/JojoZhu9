@@ -2,8 +2,8 @@
 
 # Hi, I'm Jiuzhou Zhu
 
-**Software Engineering student at Beijing-Dublin International College (BDIC)**<br>
-Building Android apps, full-stack systems, and practical software with clean architecture.
+**Software Engineering student at Beijing-Dublin International College (BDIC)**  
+I build full-stack systems, Android apps, and AI-assisted data products that are runnable, explainable, and documented.
 
 <a href="mailto:jiuzhou.zhu@ucdconnect.ie">
   <img src="https://img.shields.io/badge/UCD%20Email-jiuzhou.zhu%40ucdconnect.ie-005A9C?style=flat-square&logo=gmail&logoColor=white" alt="UCD email">
@@ -15,71 +15,99 @@ Building Android apps, full-stack systems, and practical software with clean arc
 
 </div>
 
-## About Me
+---
 
-- I am studying Software Engineering and enjoy turning coursework ideas into runnable products.
-- My main interests are full-stack development, Android applications, data-driven tools, and clean object-oriented design.
-- I like projects that are easy to build, easy to explain, and useful beyond the demo.
-- Current focus: improving project documentation, Android development, backend APIs, and interactive web systems.
+## Currently
+
+- Building **GeniusQ DaaS**, a local intelligent query platform with DeepSeek Text-to-SQL, knowledge retrieval, SQL guardrails, dashboards, and runtime configuration.
+- Exploring **full-stack product engineering**, **Android workflows**, **data visualization**, and **AI-assisted software systems**.
+- Improving project quality through clear README files, reproducible setup steps, test coverage, and runnable demos.
 
 ## Featured Projects
 
-| Project | What it does | Main stack |
-| --- | --- | --- |
-| [CityGo](https://github.com/JojoZhu9/COMP3011J-CityGo) | Android city-walk planner with trip creation, Google Maps routing, AI itinerary generation, user preferences, and budget tracking. | Java, Android, Google Maps SDK, Room |
-| [EcoSync](https://github.com/JojoZhu9/COMP3030J-EcoSync) | Sustainability-focused web application project. | Vue |
-| [Smart Site Planner](https://github.com/JojoZhu9/smart-site-planner) | Intelligent site planning and visualization system. | Python |
+| Project | Focus | Engineering highlights | Main stack |
+| --- | --- | --- | --- |
+| [GeniusQ DaaS Intelligent Query Demo](https://github.com/JojoZhu9/geniusq-daas-platform) | AI data query platform | DeepSeek Text-to-SQL, retrieval-augmented schema context, read-only SQL validation, dashboard cards, runtime API configuration | FastAPI, React, TypeScript, SQLite, DeepSeek API |
+| [EcoSync](https://github.com/JojoZhu9/COMP3030J-EcoSync) | Near-expiry product management platform | Role-based workflows, product/inventory/order modules, analytics, i18n, Docker Compose deployment, CI/CD | Spring Boot, Java 17, Vue 3, TypeScript, MySQL, Flyway, Docker |
+| [CityGo](https://github.com/JojoZhu9/COMP3011J-CityGo) | Android city-walk travel planner | Trip creation, Google Maps routing, AI-assisted itinerary generation, local persistence, user preferences, budget tracking | Java, Android, Google Maps SDK, Room |
+| [Smart Site Planner](https://github.com/JojoZhu9/smart-site-planner) | Site planning and visualization system | Coverage optimization, smallest enclosing circle logic, multi-stage merge/clean operations, Streamlit visualization | Python, Streamlit, data visualization |
 
-<p align="center">
-  <a href="https://github.com/JojoZhu9/COMP3011J-CityGo"><strong>CityGo</strong></a>
-  ·
-  <a href="https://github.com/JojoZhu9/COMP3030J-EcoSync"><strong>EcoSync</strong></a>
-  ·
-  <a href="https://github.com/JojoZhu9/smart-site-planner"><strong>Smart Site Planner</strong></a>
-</p>
+## What I Build
 
-## Tech Stack
+```text
+AI-assisted data products
+  └─ natural-language query, Text-to-SQL, SQL safety, dashboards
+
+Full-stack business systems
+  └─ backend APIs, role-based workflows, database migrations, deployment
+
+Mobile applications
+  └─ Android UI, local persistence, maps, user-centered workflows
+
+Optimization and visualization tools
+  └─ algorithmic planning, metrics, interactive dashboards
+```
+
+## Technical Toolbox
 
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks and Platforms**
+**Frontend and Mobile**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Element Plus](https://img.shields.io/badge/Element%20Plus-409EFF?style=for-the-badge&logo=element&logoColor=white)
 
-**Databases and Tools**
+**Backend, Data, and AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-BE1A1A?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-Text--to--SQL-4B6BFB?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Databases, DevOps, and Testing**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+## Engineering Interests
+
+- **AI + data interfaces:** Text-to-SQL, schema-aware retrieval, SQL validation, chart generation.
+- **Backend architecture:** REST APIs, service boundaries, persistence, authentication, testing.
+- **Product-quality demos:** one-command startup, screenshots, seed data, clear validation steps.
+- **User workflows:** mobile travel planning, business inventory/order flows, interactive dashboards.
+- **Clean delivery:** readable code, maintainable structure, and documentation that helps others run the project quickly.
 
 ## GitHub Snapshot
 
 | Area | Snapshot |
 | --- | --- |
-| Public repositories | 4 |
-| Recent project focus | Android travel app, sustainability web app, intelligent planning tool |
-| Main languages in public work | Java, Vue, Python |
-| Profile focus | Runnable projects, clean documentation, and practical software demos |
+| Public repositories | 5 |
+| Recent focus | AI data query platform, full-stack business system, Android travel app |
+| Main languages in public work | Java, Python, TypeScript, Vue |
+| Profile focus | Runnable projects, practical engineering, clear documentation |
 
-## What I Care About
+<div align="center">
 
-- Clean object-oriented design and maintainable architecture.
-- Practical products that can be cloned, built, and understood quickly.
-- Clear README files, screenshots, and reproducible setup steps.
-- Learning by shipping: small improvements, real feedback, and steady iteration.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JojoZhu9&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojoZhu9&layout=compact&theme=transparent&hide_border=true" alt="Top languages">
+
+</div>
 
 ## Contact
 
@@ -89,7 +117,7 @@ Building Android apps, full-stack systems, and practical software with clean arc
 
 <div align="center">
 
-> Talk is cheap. Show me the code.
+> Build things that can be cloned, run, tested, and understood.
 
 Thanks for stopping by.
 
