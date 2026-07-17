@@ -102,12 +102,14 @@ Optimization and visualization tools
 | Main languages in public work | Java, Python, TypeScript, Vue |
 | Profile focus | Runnable projects, practical engineering, clear documentation |
 
-<div align="center">
+## Project Map
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JojoZhu9&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojoZhu9&layout=compact&theme=transparent&hide_border=true" alt="Top languages">
-
-</div>
+| Direction | Representative project | What it demonstrates |
+| --- | --- | --- |
+| AI + Data Products | [GeniusQ DaaS](https://github.com/JojoZhu9/geniusq-daas-platform) | Text-to-SQL, knowledge retrieval, SQL safety, dashboard UX |
+| Full-stack Platforms | [EcoSync](https://github.com/JojoZhu9/COMP3030J-EcoSync) | Spring Boot services, Vue frontend, MySQL migrations, Docker deployment |
+| Android Applications | [CityGo](https://github.com/JojoZhu9/COMP3011J-CityGo) | Mobile workflows, Google Maps integration, Room persistence |
+| Optimization Tools | [Smart Site Planner](https://github.com/JojoZhu9/smart-site-planner) | Algorithmic site planning, coverage metrics, Streamlit visualization |
 
 ## Contact
 
