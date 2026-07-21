@@ -24,9 +24,9 @@ I build AI-assisted data systems, full-stack platforms, mobile applications, and
 
 | Project | Problem and evidence | Main stack |
 | --- | --- | --- |
-| [GeniusQ DaaS](https://github.com/JojoZhu9/geniusq-daas-platform) | Local intelligent data-query platform with schema-aware retrieval, read-only Text-to-SQL, execution traces, dashboards, and offline fallback. | FastAPI, React, TypeScript, SQLite, DeepSeek API |
+| [GeniusQ DaaS](https://github.com/JojoZhu9/geniusq-daas-platform) | Team-built local intelligent data-query platform with schema-aware retrieval, read-only Text-to-SQL, execution traces, dashboards, and offline fallback. | FastAPI, React, TypeScript, SQLite, DeepSeek API |
 | [EcoSync](https://github.com/JojoZhu9/COMP3030J-EcoSync) | Group-built near-expiry inventory and ordering platform with role-based workflows, analytics, migrations, tests, and containerized deployment. | Spring Boot, Java 17, Vue 3, TypeScript, MySQL, Docker |
-| [Smart Site Planner](https://github.com/JojoZhu9/smart-site-planner) | Delivery-site optimization and visualization using coverage constraints, smallest enclosing circles, staged merging, and interactive metrics. | Python, Streamlit, data visualization |
+| [Smart Site Planner](https://github.com/JojoZhu9/smart-site-planner) | Collaborative delivery-site optimization and visualization using coverage constraints, smallest enclosing circles, staged merging, and interactive metrics. | Python, Streamlit, data visualization |
 | [CityGo](https://github.com/JojoZhu9/COMP3011J-CityGo) | Group-built Android city-walk planner with Google Maps routing, AI-assisted itineraries, Room persistence, preferences, and budget tracking. | Java, Android, Google Maps SDK, Room |
 | [PeekDock](https://github.com/JojoZhu9/peekdock) | Small Windows utility that binds a Chrome page to a dedicated app window and toggles it with the middle mouse button. | AutoHotkey v2, Chrome, PowerShell validation |
 
