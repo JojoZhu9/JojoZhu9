@@ -41,9 +41,9 @@ I build AI-assisted data systems, full-stack platforms, mobile applications, and
 
 ## Technical Toolbox
 
-**Languages:** Java, Python, TypeScript, JavaScript, SQL, AutoHotkey<br>
+**Languages:** Java, Python, TypeScript, JavaScript, Scala, SQL, AutoHotkey<br>
 **Frontend and mobile:** React, Vue 3, Vite, Android, Material Components, Element Plus<br>
-**Backend and data:** FastAPI, Spring Boot, MyBatis, SQLite, MySQL, Room, Streamlit<br>
+**Backend and data:** FastAPI, Spring Boot, MyBatis, SQLite, MySQL, Room, Streamlit, DeepSeek<br>
 **Delivery and testing:** Docker Compose, GitHub Actions, Pytest, JUnit, Vitest, Playwright, Gradle
 
 ## Collaboration
@@ -56,7 +56,9 @@ Course projects are presented as team work, with contributor attribution retaine
 - QQ email: `3490955839@qq.com`
 - WeChat: `JojoZhu0316`
 
-For a concise Chinese overview, see [README_ZH.md](./README_ZH.md).
+## 中文简介
+
+[README_ZH.md](./README_ZH.md) 提供一份简洁的中文简介。
 
 <div align="center">
 
